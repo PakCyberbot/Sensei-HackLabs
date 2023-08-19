@@ -1,6 +1,11 @@
 # 🥋Sensei HackLabs
 #### Simplify, Accelerate, Excel
+
+<center>
+
 ![babykarate~2](https://github.com/PakCyberbot/Sensei-HackLabs/assets/93365275/1d7952de-8a6e-41af-9078-eb1c7890e5aa)
+
+</center>
 
 Welcome to Sensei HackLabs! This repository is dedicated to providing cybersecurity specialists with a framework to create efficient and time-saving cybersecurity labs for various purposes. Whether you're looking to learn, teach, or experiment, this repository offers a collection of pre-built environments and the flexibility to create your own. 
 
@@ -60,6 +65,12 @@ Currently, it has only one environment related to pentesting.
 Sensei HackLabs is designed to offer flexibility and user-friendliness. These labs can serve a variety of purposes:
 
 - **Skill Enhancement**: Elevate your cybersecurity skills by optimizing your hacking/development environment, thereby increasing the efficiency and time-effectiveness of your work.
+
+<center>
+
+![demo](https://github.com/PakCyberbot/Sensei-HackLabs/assets/93365275/613393fa-a0ba-4b7a-bba9-b30f4ba9c284)
+
+</center>
 
 ---
 
