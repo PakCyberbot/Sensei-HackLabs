@@ -33,8 +33,11 @@ To get started with Sensei HackLabs, follow these steps:
    ```
    git clone https://github.com/PakCyberbot/SenseiHackLabs.git
    ```
-
-2. **Explore Existing Labs**: You can browse the labs by running 
+2. **Install  pip packages**: Install packages from requirements.txt
+   ```
+   pip install -r requirements.txt
+   ``` 
+3. **Explore Existing Labs**: You can browse the labs by running 
 ``
 python SenseiHackLabs.py
 ``
