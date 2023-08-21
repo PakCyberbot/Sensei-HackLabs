@@ -15,11 +15,9 @@ IT IS CURRENTLY IN ITS INFANCY
 
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
-- [Contributing](#contributing)
 - [Lab Environments](#lab-environments)
 - [Usage](#usage)
-- [Resources](#resources)
-- [License](#license)
+- [Contributing](#contributing)
 
 ## Introduction
 
@@ -43,25 +41,12 @@ python SenseiHackLabs.py
 ``
 and then select any lab/environment you want to install or see their information.
 
-## Contributing
-
-Sensei HackLabs welcomes contributions from the cybersecurity community. If you'd like to create a new lab environment or improve an existing one, follow these steps:
-
-1. **Create a New Lab Folder**: If you're creating a new lab, create a new folder with a descriptive name.
-
-2. **Add Lab Content**: Populate the lab folder with the required files, configurations, and instructions for the lab environment. The following two files need to be included:
-
-- **info**: This file will contain information related to the lab environment.
-- **setup.sh**: This file is mandatory and is responsible for setting up the lab environment. It will be executed by the main Python program.
-
-3. **Submit a Pull Request**: Once you've prepared your lab environment, submit a pull request to the main repository. Be sure to include a brief description of your changes and the purpose of the new lab.
 
 ## Lab Environments
 
 Currently, it has only one environment related to pentesting.
 
 - pentestingCTF: [Environment Demonstration Video](https://youtu.be/TXNuUfIWZI4)
-
 
 ## Usage
 
@@ -76,6 +61,18 @@ Sensei HackLabs is designed to offer flexibility and user-friendliness. These la
 </center>
 
 ---
+## Contributing
+
+Sensei HackLabs welcomes contributions from the cybersecurity community. If you'd like to create a new lab environment or improve an existing one, follow these steps:
+
+1. **Create a New Lab Folder**: If you're creating a new lab, create a new folder with a descriptive name.
+
+2. **Add Lab Content**: Populate the lab folder with the required files, configurations, and instructions for the lab environment. The following two files need to be included:
+
+- **info**: This file will contain information related to the lab environment.
+- **setup.sh**: This file is mandatory and is responsible for setting up the lab environment. It will be executed by the main Python program.
+
+3. **Submit a Pull Request**: Once you've prepared your lab environment, submit a pull request to the main repository. Be sure to include a brief description of your changes and the purpose of the new lab.
 
 We hope you find Sensei HackLabs to be a valuable resource for your cybersecurity journey. Happy hacking!
 
