@@ -60,7 +60,7 @@ Sensei HackLabs welcomes contributions from the cybersecurity community. If you'
 
 Currently, it has only one environment related to pentesting.
 
-- pentestingCTF
+- pentestingCTF: [Environment Demonstration Video](https://youtu.be/TXNuUfIWZI4)
 
 
 ## Usage
