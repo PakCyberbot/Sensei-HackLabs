@@ -13,17 +13,17 @@ IT IS CURRENTLY IN ITS INFANCY
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Getting Started](#getting-started)
-- [Lab Environments](#lab-environments)
-- [Usage](#usage)
-- [Contributing](#contributing)
+- [👋Introduction](#introduction)
+- [🏁Getting Started](#getting-started)
+- [🧪Lab Environments](#lab-environments)
+- [📚Usage](#usage)
+- [🤝Contributing](#contributing)
 
-## Introduction
+## 👋Introduction
 
 Sensei HackLabs is a collaborative initiative aimed at providing a platform for cybersecurity analysts, researchers, and enthusiasts to share, develop, and improve cybersecurity lab environments.
 
-## Getting Started
+## 🏁Getting Started
 
 To get started with Sensei HackLabs, follow these steps:
 
@@ -42,13 +42,13 @@ python SenseiHackLabs.py
 and then select any lab/environment you want to install or see their information.
 
 
-## Lab Environments
+## 🧪Lab Environments
 
 Currently, it has only one environment related to pentesting.
 
 - pentestingCTF: [Environment Demonstration Video](https://youtu.be/TXNuUfIWZI4)
 
-## Usage
+## 📚Usage
 
 Sensei HackLabs is designed to offer flexibility and user-friendliness. These labs can serve a variety of purposes:
 
@@ -61,7 +61,7 @@ Sensei HackLabs is designed to offer flexibility and user-friendliness. These la
 </center>
 
 ---
-## Contributing
+## 🤝Contributing
 
 Sensei HackLabs welcomes contributions from the cybersecurity community. If you'd like to create a new lab environment or improve an existing one, follow these steps:
 
